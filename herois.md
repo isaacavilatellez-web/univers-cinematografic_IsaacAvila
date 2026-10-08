@@ -1,7 +1,7 @@
 # Superherois principals
 
 ## Iron Man
-- Poder o tecnologia: armadura amb armes, vol i intel·ligència artificial.
+- Poder o tecnologia: armadura amb armes, vol, intel·ligència artificial i un nou escut d'energia.
 - Origen: Tony Stark, un inventor que crea una armadura per escapar d'un segrest.
 - Funció dins de la saga: aporta tecnologia i recursos a l'equip.
 
@@ -19,3 +19,13 @@
 - Poder o tecnologia: habilitats físiques millorades i vestit de vibrani.
 - Origen: T'Challa és el rei i protector de Wakanda.
 - Funció dins de la saga: aporta els recursos de Wakanda per defensar la Terra.
+
+## Thor
+- Poder o habilitat: controla els llamps i utilitza el martell Mjölnir.
+- Origen: és un déu d'Asgard, fill d'Odin.
+- Funció dins de la saga: defensa la Terra de les amenaces còsmiques.
+
+## Hulk
+- Poder o habilitat: força extraordinària i gran resistència.
+- Origen: Bruce Banner es transforma en Hulk després d'un accident amb radiació gamma.
+- Funció dins de la saga: ajuda l'equip a combatre els enemics més poderosos.

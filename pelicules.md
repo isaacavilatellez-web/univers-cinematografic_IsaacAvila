@@ -20,3 +20,10 @@
 - Escenari principal: la Terra.
 - Argument: els herois formen els Avengers per impedir que Thanos reuneixi les Gemmes de l'Infinit. Només treballant en equip podran salvar el planeta.
 - Relació amb la història: capítols 3 i 4, La formació dels Avengers i La batalla pel futur de la Terra.
+
+## Un nou llegat
+- Protagonistes: Spider-Man i Black Panther.
+- Antagonista: una nova organització que ha recuperat la tecnologia d'Ultron.
+- Escenari principal: Nova York i Wakanda.
+- Argument: després de la batalla final, els herois descobreixen que encara queden robots d'Ultron actius. Spider-Man posa en pràctica els consells d'Iron Man i col·labora amb Black Panther per aturar-los.
+- Relació amb la història: capítol 5, El futur de l'univers cinematogràfic.

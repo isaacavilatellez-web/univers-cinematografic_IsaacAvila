@@ -29,3 +29,6 @@
 - Poder o habilitat: força extraordinària i gran resistència.
 - Origen: Bruce Banner es transforma en Hulk després d'un accident amb radiació gamma.
 - Funció dins de la saga: ajuda l'equip a combatre els enemics més poderosos.
+
+## Relació entre Iron Man i Spider-Man
+Iron Man es converteix en el mentor de Spider-Man i l'ajuda a millorar el seu equip. Spider-Man li recorda la importància de protegir les persones i actuar amb responsabilitat.
